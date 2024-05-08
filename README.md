@@ -6,7 +6,7 @@
 # Dsecrição do Projeto
 Algoritmo que tem a função para validar CPFs.<br>
 Algoritmo que foi criado no curso de python 3 do básico ao Avançado com o professor Luiz Otávio Miranda.
-<a href=""> Repositório do Curso de Python 3
+<a href="https://github.com/alessandroex9/Curso-de-Python-Udemy"> Repositório do Curso de Python 3
 
 <p alling='center'>
     <img src="imagens/em finalizado 2.png"/>
